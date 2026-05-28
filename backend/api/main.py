@@ -19,7 +19,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.concurrency import run_in_threadpool
 from typing import Any, Optional
 
-from mock_user_contexts import mock_user_contexts
+from tests.mock_user_contexts import mock_user_contexts
 from app.services.recommendation_service import get_recommendations
 from app.schemas import UserContextRequest, RecommendationResponse
 
