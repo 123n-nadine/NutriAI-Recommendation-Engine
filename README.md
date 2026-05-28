@@ -176,6 +176,4 @@ npm run dev
 *   **User Auth:** Implement JWT authentication to allow users to save their profiles and track their nutritional history over time.
 
 ---
-<div align="center">
-  <i>Developed with ❤️ for Data Science & AI Portfolios</i>
-</div>
+
